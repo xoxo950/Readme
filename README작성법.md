@@ -1,4 +1,4 @@
-[공통] 마크다운 markdown 작성법
+[[공통] 마크다운 markdown 작성법
 ======================
 
 # 1. 마크다운에 관하여
@@ -405,3 +405,4 @@ View 영역의 항목을 그대로 붙여넣거나 HTML 내보내기 등으로 �
 * Atom(<https://atom.io/>)
 * Visual Studio Code(<https://code.visualstudio.com/>)
 * Notepad++(<https://notepad-plus-plus.org/>)
+](https://gist.github.com/ihoneymon/652be052a0727ad59601)
